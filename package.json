@@ -1,0 +1,32 @@
+{
+  "name": "neoproxy-cli",
+  "version": "0.1.00",
+  "description": "NeoProxy-cli is a node.js command line interface based on NeoProxy to do basic proxy tasks.",
+  "main": "./cli.js",
+  "bin": {
+    "neoproxy": "./cli.js",
+    "neoproxy-cli": "./cli.js"
+  },
+  "dependencies": {
+    "commander": "^2.9.0",
+    "neoproxy": "^0.2.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mie00/neoproxy-cli.git"
+  },
+  "keywords": [
+    "proxy",
+    "plugins"
+  ],
+  "author": "Mohamed Elawadi (mielawadi@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mie00/neoproxy-cli/issues"
+  },
+  "homepage": "https://github.com/mie00/neoproxy-cli#readme"
+}
