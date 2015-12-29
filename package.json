@@ -1,6 +1,6 @@
 {
   "name": "neoproxy-cli",
-  "version": "0.1.00",
+  "version": "0.1.01",
   "description": "NeoProxy-cli is a node.js command line interface based on NeoProxy to do basic proxy tasks.",
   "main": "./cli.js",
   "bin": {
@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "commander": "^2.9.0",
-    "neoproxy": "^0.2.5"
+    "neoproxy": "^0.2.6"
   },
   "devDependencies": {},
   "scripts": {
