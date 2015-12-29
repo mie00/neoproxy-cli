@@ -23,5 +23,7 @@ NeoProxy-cli is a node.js command line interface based on [NeoProxy](https://git
       -p, --port <port>          the port the proxy server listens to [8087]
       -L, --limit <bandwidth>    limit connection speed
       --interval <milliseconds>  the interval to calculate the limit (melliseconds) [1000]
+      -a, --allow <ips>          the allowed ip addresses (seperated by commas)
+      -d, --deny <ips>           the forbidden ip addresses (seperated by commas)
 
   ```
