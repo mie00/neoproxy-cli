@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "commander": "^2.9.0",
-    "neoproxy": "^0.2.6"
+    "neoproxy": "^0.2.9"
   },
   "devDependencies": {},
   "scripts": {
